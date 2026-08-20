@@ -1,0 +1,89 @@
+[
+ {
+  "slug": "view-ps",
+  "en": "View Plastic Surgery",
+  "tier": "GOLD",
+  "rating": 4.8,
+  "clinic_ko": "뷰성형외과",
+  "sanctioned": true,
+  "evidence_count": 13,
+  "sources": [
+   "https://blog.naver.com/alpha-biz/224344939648",
+   "https://blog.naver.com/jjubika3/224344296212",
+   "https://blog.naver.com/ilyoweekly/224346520257",
+   "https://blog.naver.com/party_11/224373824324"
+  ],
+  "markers": [
+   "공정거래위원회",
+   "공정위",
+   "뒷광고",
+   "시정명령",
+   "적발",
+   "제재",
+   "후기 조작"
+  ],
+  "excerpt": "에이비&middot;뷰&middot;디에이성형외과, 수술비 깎아주고 '내돈내산' 후기 조작&hellip;공정위 제재 [알파경제 &#x3D; 이준현 기자] 수술비를 깎아주는 조건으로 홍보 모델을 동원해 광고를 &#x27;자발적 후기&#x27;로 둔갑시킨 에이비성형외과의원, 뷰성형외과, 디"
+ },
+ {
+  "slug": "da-ps",
+  "en": "DA Plastic Surgery",
+  "tier": "GOLD",
+  "rating": 4.7,
+  "clinic_ko": "디에이성형외과",
+  "sanctioned": true,
+  "evidence_count": 13,
+  "sources": [
+   "https://blog.naver.com/alpha-biz/224344939648",
+   "https://blog.naver.com/jjubika3/224344296212",
+   "https://blog.naver.com/ilyoweekly/224346520257",
+   "https://blog.naver.com/party_11/224373824324"
+  ],
+  "markers": [
+   "공정거래위원회",
+   "공정위",
+   "뒷광고",
+   "시정명령",
+   "적발",
+   "제재",
+   "후기 조작"
+  ],
+  "excerpt": "에이비&middot;뷰&middot;디에이성형외과, 수술비 깎아주고 '내돈내산' 후기 조작&hellip;공정위 제재 [알파경제 &#x3D; 이준현 기자] 수술비를 깎아주는 조건으로 홍보 모델을 동원해 광고를 &#x27;자발적 후기&#x27;로 둔갑시킨 에이비성형외과의원, 뷰성형외과, 디"
+ },
+ {
+  "slug": "ab-ps",
+  "en": "AB Plastic Surgery",
+  "tier": "GOLD",
+  "rating": 4.8,
+  "clinic_ko": "에이비성형외과",
+  "sanctioned": true,
+  "evidence_count": 13,
+  "sources": [
+   "https://blog.naver.com/alpha-biz/224344939648",
+   "https://blog.naver.com/jjubika3/224344296212",
+   "https://blog.naver.com/ilyoweekly/224346520257",
+   "https://blog.naver.com/party_11/224373824324"
+  ],
+  "markers": [
+   "공정거래위원회",
+   "공정위",
+   "뒷광고",
+   "시정명령",
+   "적발",
+   "제재",
+   "후기 조작"
+  ],
+  "excerpt": "에이비&middot;뷰&middot;디에이성형외과, 수술비 깎아주고 '내돈내산' 후기 조작&hellip;공정위 제재 [알파경제 &#x3D; 이준현 기자] 수술비를 깎아주는 조건으로 홍보 모델을 동원해 광고를 &#x27;자발적 후기&#x27;로 둔갑시킨 에이비성형외과의원, 뷰성형외과, 디"
+ },
+ {
+  "slug": "braun-ps",
+  "en": "Braun Plastic Surgery",
+  "tier": "GOLD",
+  "rating": 4.8,
+  "clinic_ko": "브라운성형외과",
+  "sanctioned": false,
+  "evidence_count": 0,
+  "sources": [],
+  "markers": [],
+  "excerpt": ""
+ }
+]
